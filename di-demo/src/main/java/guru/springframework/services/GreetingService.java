@@ -1,5 +1,5 @@
 package guru.springframework.services;
 
 public interface GreetingService {
-	public String sayGreeting();
+	String sayGreeting();
 }
