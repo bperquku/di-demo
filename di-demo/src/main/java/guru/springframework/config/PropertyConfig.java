@@ -55,5 +55,4 @@ public class PropertyConfig {
 		jmsBroker.setUrl(jmsUrl);
 		return jmsBroker;
 	}
-
 }
